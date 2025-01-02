@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
