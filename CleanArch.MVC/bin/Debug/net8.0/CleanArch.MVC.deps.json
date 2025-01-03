@@ -9,7 +9,7 @@
       "CleanArch.MVC/1.0.0": {
         "dependencies": {
           "AutoMapper": "13.0.1",
-          "CleanArch.Infra.Data": "1.0.0",
+          "CleanArch.Application": "1.0.0",
           "CleanArch.Infra.IoC": "1.0.0"
         },
         "runtime": {
