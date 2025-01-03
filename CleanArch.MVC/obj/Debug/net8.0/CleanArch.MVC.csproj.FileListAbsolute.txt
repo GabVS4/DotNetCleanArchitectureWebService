@@ -162,3 +162,4 @@ C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.MVC\obj\
 C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.MVC\obj\Debug\net8.0\CleanArch.MVC.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.MVC\obj\Debug\net8.0\CleanArch.MVC.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.MVC\obj\Debug\net8.0\ref\CleanArch.MVC.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CleanArch\CleanArch\CleanArch.MVC\bin\Debug\net8.0\AutoMapper.dll
